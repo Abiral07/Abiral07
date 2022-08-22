@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Angular**
 
-- 👨‍💻 All of my projects are available at [abiral.ml](abiral.ml)
+- 👨‍💻 All of my projects are available at [abiral.ml](https://github.com/Abiral07?tab=repositories)
 
 - 💬 Ask me about **python, java, angular, js**
 
